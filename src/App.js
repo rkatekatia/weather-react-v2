@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
         <h1>Weather app</h1>
         <Weather />
-        <p>
+        <footer>
           <a
             href="https://github.com/rkatekatia/weather-react-v2"
             target="_blank"
@@ -16,7 +16,7 @@ export default function App() {
             Open-source code{' '}
           </a>
           by Catherine Kariakina
-        </p>
+        </footer>
       </div>
     </div>
   )
