@@ -4,7 +4,9 @@
   color: #f8615d;
   padding: 25px;
   border-radius: 5px;
+  background-color: rgba(236, 233, 233, 0.931);
 }
+
 .Weather form {
   margin-bottom: 20px;
 }
